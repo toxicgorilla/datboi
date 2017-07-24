@@ -1,0 +1,27 @@
+{
+  "name": "datboi",
+  "version": "1.0.0",
+  "description": "datboi dat boi oh shit whaddup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toxicgorilla/datboi.git"
+  },
+  "keywords": [
+    "datboi",
+    "dat",
+    "boi",
+    "oh",
+    "shit",
+    "whaddup"
+  ],
+  "author": "Steve Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toxicgorilla/datboi/issues"
+  },
+  "homepage": "https://github.com/toxicgorilla/datboi#readme"
+}
