@@ -1,8 +1,11 @@
 # datboi
 
 ## Installation
-npm install datboi
-yarn add datboi
+> npm install datboi
+
+or
+
+> yarn add datboi
 
 # Usage
 
