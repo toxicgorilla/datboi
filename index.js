@@ -1,3 +1,1 @@
-var datboi = require("./datboi");
-
-datboi();
+require("./datboi");
