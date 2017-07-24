@@ -9,4 +9,4 @@ or
 
 # Usage
 
-require("./datboi");
+require('datboi');
