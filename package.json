@@ -1,7 +1,7 @@
 {
   "name": "datboi",
-  "version": "1.0.0",
-  "description": "datboi dat boi oh shit whaddup",
+  "version": "1.0.1",
+  "description": "datboi",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
