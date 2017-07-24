@@ -6,6 +6,4 @@ yarn add datboi
 
 # Usage
 
-var datboi = require("./datboi");
-
-datboi();
+require("./datboi");
