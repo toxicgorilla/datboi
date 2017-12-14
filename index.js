@@ -1,1 +1,1 @@
-require("./datboi");
+require("./datboi")();
